@@ -76,3 +76,8 @@ still so many KPI are left!
 -Quantile-based thresholds for sentiment labeling may not be perfect for all datasets.
 
 -Analysis depends on the quality and size of the dataset.
+
+## KPI performed 
+1.Reivew_Length Distribution
+A new feature review_length is created to represent the number of charactersin each review.
+<img width="695" height="468" alt="Image" src="https://github.com/user-attachments/assets/85c64d14-40e5-4c4c-b1b6-fcb35a1cf57c" />
