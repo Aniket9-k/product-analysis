@@ -78,6 +78,27 @@ still so many KPI are left!
 -Analysis depends on the quality and size of the dataset.
 
 ## KPI performed 
-1.Reivew_Length Distribution
+# 1.Reivew_Length Distribution:
 A new feature review_length is created to represent the number of charactersin each review.
 <img width="695" height="468" alt="Image" src="https://github.com/user-attachments/assets/85c64d14-40e5-4c4c-b1b6-fcb35a1cf57c" />
+# 2.Distribution of Rating
+Distribution of ratings( Positive , neutral , negative)
+<img width="561" height="427" alt="Image" src="https://github.com/user-attachments/assets/7e56d87d-624c-4465-8748-cc535547e3ff" />
+# 3.Understanding Sentiment_Score
+how scores are distributed 
+<img width="552" height="413" alt="Image" src="https://github.com/user-attachments/assets/3416f112-e63b-4902-adba-0ebd41cfda03" />
+# 4.Sentiment Distribution 
+sentiment distribution of reviews(The majority of customer reviews are neutral, indicating that most customers give moderate feedback. Positive reviews are less frequent, and negative reviews are the fewest. )
+<img width="580" height="453" alt="Image" src="https://github.com/user-attachments/assets/b99db9e3-107d-4f5a-961d-42292285f85d" />
+# 5.Rating VS Sentiment
+It proves that sentiment scores align well with customer ratings, validating the effectiveness of VADER sentiment analysis. 
+<img width="567" height="453" alt="Image" src="https://github.com/user-attachments/assets/bfbe88eb-be23-4aed-9d8a-e1b573944c83" />
+# 6.Best Performing Product
+The top 10 best performing products have the highest average sentiment scores, indicating strong positive customer feedback. These plots help identify products that need improvement versus those that are performing well. 
+<img width="1013" height="857" alt="Image" src="https://github.com/user-attachments/assets/d839ca48-cf2f-4f98-9f0b-f0e9e06ff939" />
+# 7.Worst Perdorming Product
+The top 10 worst performing products have the lowest average sentiment scores, reflecting mostly negative reviews or complaints. These plots help identify products that need improvement versus those that are performing well. 
+<img width="1000" height="1251" alt="Image" src="https://github.com/user-attachments/assets/8a5b0773-cdec-4497-a8fa-33b25042cbe6" />
+# 8.Complain Rate by Product
+The top 10 products with the highest complaint rates were identified using the proportion of negative reviews. The tallest yellow bars indicate products with the most negative customer feedback, highlighting areas that may need improvement 
+<img width="949" height="994" alt="Image" src="https://github.com/user-attachments/assets/30ac136c-4b6e-4aee-a783-669d80295b94" />
